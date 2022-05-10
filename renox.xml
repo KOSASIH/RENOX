@@ -1,0 +1,16 @@
+<properties>
+    <ignite.version>2.13.0</ignite.version>
+</properties>
+
+<dependencies>
+    <dependency>
+        <groupId>org.apache.ignite</groupId>
+        <artifactId>ignite-core</artifactId>
+        <version>${ignite.version}</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.ignite</groupId>
+        <artifactId>ignite-spring</artifactId>
+        <version>${ignite.version}</version>
+    </dependency>
+</dependencies>
