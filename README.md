@@ -17,7 +17,7 @@ Our vision is to make it easy for users to find what they need in order for thei
  
  # Motto
  
- The vision of a unified, easy to use and fully secure source of blockchain data
+ The best, easy to use and fully secure source of blockchain data
  
  # Value Proposition
  
