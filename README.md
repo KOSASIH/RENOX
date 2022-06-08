@@ -17,7 +17,7 @@ To build an authoritative, interactive and brand-centric software solution for t
 
 # Motto
 
-The vision of a unified, easy to use and fully secure source of blockchain data
+The best
 
 # Value Proposition
 
